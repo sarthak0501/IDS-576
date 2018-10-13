@@ -1,2 +1,2 @@
-# uic
-University Projects
+# IDS 576
+Steering Angle Prediction for self-driving cars
